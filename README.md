@@ -1,5 +1,6 @@
-# Hypertension Treatment 高血压治疗
+# Hypotension treatment 低血压治疗
+
+互联网垃圾箱
 
 本仓库将帮您治疗低血压的问题
 
-通过仓库中的文件夹，开始治疗吧
