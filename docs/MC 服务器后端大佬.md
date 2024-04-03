@@ -135,3 +135,15 @@
 ### 大佬表示自己开服成功
 
 ![image-20240403201736452](./assets/image-20240403201736452.png)
+
+### 大佬争论 Microsoft Edge 与 Google Chromium 无关
+
+![image-20240403222946599](./assets/image-20240403222946599.png)
+
+### 大佬急需 Microsoft Edge 是 Chromium 内核的证据
+
+![image-20240403222840690](./assets/image-20240403222840690.png)
+
+### 大佬表示需要伤感
+
+![image-20240403223008199](./assets/image-20240403223008199.png)
